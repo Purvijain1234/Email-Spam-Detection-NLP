@@ -17,6 +17,12 @@ This project is an email spam detection system built using Natural Language Proc
 
 ## 📷 Web Interface Screenshot
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d51a9b16-693d-428a-9fe2-f678ec4e07c2" width="48%" />
+  <img src="https://github.com/user-attachments/assets/742d4213-85da-4ff2-9a97-e4845dd4630f" width="48%"  />
+</p>
+
+
 The system predicts whether an email message is:
 
 - 🚨 Spam
@@ -73,5 +79,7 @@ The following preprocessing steps are applied to the email text:
 ---
 
 ## 📄 License
+
 This project is open-source and available under the MIT License.
+
 ---
